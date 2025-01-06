@@ -95,7 +95,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <h1 class="display-4 fw-bold">Ajoyib Retseptlarni Keshf eting</h1>
+                <h1 class="display-4 fw-bold">Yangi Retseptlarni Kashf Eting</h1>
                 <p class="lead">Dunyo bo'ylab mazali retseptlarni baham ko'ring va o'rganing</p>
             </div>
             <div class="col-md-6 text-md-end">
